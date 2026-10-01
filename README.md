@@ -127,107 +127,6 @@ Technology + Space
 </tr>
 </table>
 
----
-
-<!-- ========================================================= -->
-<!--                     MY STORY                               -->
-<!-- ========================================================= -->
-
-## 🚀 My Story
-
-I didn't start coding because I wanted to become a programmer.
-
-I started because I was **curious.**
-
-Curious about how things work.
-
-Curious about how technology can solve problems.
-
-And especially curious about how we can use technology to understand
-things that are far beyond us.
-
-That curiosity took me from experimenting with code to building
-projects, participating in hackathons and exploring areas like
-AI, web development, simulations and space technology.
-
-I'm still at the beginning of the journey.
-
-And there is a lot more to explore. 🌌
-
----
-
-<!-- ========================================================= -->
-<!--                    WHAT I BUILD                            -->
-<!-- ========================================================= -->
-
-## 🛰️ What I Like Building
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌌 Space & Science
-
-Interactive experiences inspired by:
-
-- Exoplanets
-- Astronomy
-- Space exploration
-- Scientific simulations
-- Space technology
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI & Technology
-
-Exploring:
-
-- AI-powered applications
-- Intelligent interfaces
-- Data-driven systems
-- Automation
-- Real-world problem solving
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Web Experiences
-
-I enjoy creating:
-
-- Interactive websites
-- Dashboards
-- Portfolio websites
-- Hackathon MVPs
-- User-focused interfaces
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏆 Hackathon Projects
-
-I love the process of:
-
-**Idea → Research → Prototype → Build → Pitch**
-
-Especially when there are only a few days
-to turn an idea into something real.
-
-</td>
-
-</tr>
-</table>
-
----
 
 <!-- ========================================================= -->
 <!--                    TECH STACK                              -->
@@ -304,39 +203,6 @@ and different exoplanet detection concepts.
 
 <td width="50%" valign="top">
 
-### 🌴 Samskrithi
-
-A digital platform focused on making **Kerala's culture and heritage**
-more interactive and accessible.
-
-Includes interactive cultural exploration, cuisine,
-festivals, history and an AI-powered itinerary concept.
-
-**Tech**
-
-`HTML` `CSS` `JavaScript` `AI`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🛡️ Sonar Shield
-
-A smart dashboard concept for **underwater threat detection**
-and monitoring.
-
-Designed as a data-focused interface for visualizing
-complex information clearly.
-
-**Tech**
-
-`React` `TypeScript` `UI/UX`
-
-</td>
 
 <td width="50%" valign="top">
 
@@ -370,19 +236,6 @@ flooding and seasonal changes.
 
 </td>
 
-<td width="50%" valign="top">
-
-### 💻 Personal Portfolio
-
-A continuously evolving portfolio documenting my
-projects, skills, experiments and learning journey.
-
-**Tech**
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
 </tr>
 
 </table>
@@ -395,117 +248,15 @@ projects, skills, experiments and learning journey.
 
 ## 🏆 Hackathons & Innovation
 
-I've used hackathons as a way to learn technologies,
-work with teams and turn ideas into working prototypes.
-
-### 🚀 NASA Space Apps
-
-Built projects around:
-
-- 🌌 Exoplanet exploration
-- 🌾 NASA data and agriculture
-- 🎮 Interactive simulation
-- 🛰️ Space-related storytelling
-
----
-
+### 🚀 NASA Space Apps 2024 | 2025
 ### 🏛️ IIT Madras / Shaastra
-
-Worked on a **Digital Public Infrastructure** problem involving
-address validation and intelligent data systems.
-
-Reached the **final stage** and presented the solution.
-
----
-
-### 🌴 Kerala Culture Hackathon
-
-Worked on **Samskrithi**, a platform for digitally exploring
-Kerala's cultural heritage.
-
----
-
-### 💡 Other Hackathons
-
-Participated in multiple college and innovation hackathons,
-working across:
+### 💡Smart India Hackathon
+### Make-a-ton 8.0
+### Algorand Pre-Hack
+### College Hackathons / Events
 
 `AI` · `Web` · `Data` · `Culture` · `Space` · `DPI`
 
----
-
-<!-- ========================================================= -->
-<!--                   CURRENTLY EXPLORING                       -->
-<!-- ========================================================= -->
-
-## 🔭 Currently Exploring
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 01 · Computer Science
-
-Strengthening my fundamentals in:
-
-- Programming
-- Data Structures
-- Algorithms
-- Problem Solving
-- Software Development
-
-</td>
-
-<td width="50%">
-
-### 02 · Web Development
-
-Learning to build:
-
-- Modern interfaces
-- Interactive dashboards
-- Responsive websites
-- Better user experiences
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 03 · Artificial Intelligence
-
-Exploring:
-
-- AI applications
-- APIs
-- Intelligent systems
-- Data-driven solutions
-- AI-assisted development
-
-</td>
-
-<td width="50%">
-
-### 04 · Space Technology
-
-Keeping my original curiosity alive through:
-
-- Astronomy
-- Astrophysics
-- Exoplanets
-- Space missions
-- Scientific computing
-
-</td>
-
-</tr>
-</table>
-
----
 
 <!-- ========================================================= -->
 <!--                      LEARNING                              -->
