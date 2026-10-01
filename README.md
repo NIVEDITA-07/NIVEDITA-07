@@ -1,32 +1,29 @@
 <p align="center">
   <img src="./assets/banner.png" width="100%" />
 </p>
+<br>
+
 <!-- ========================================================= -->
-<!-- INTRO -->
+<!--                       INTRO                               -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<h1>Niveditha VS</h1>
+# `NIVEDITA-07`
 
-<p>
-  <strong>Computer Science Undergraduate · AI · Data · Software</strong>
-</p>
+### Computer Science Student · Builder · Space Enthusiast
 
-<p>
-  I build practical software, explore AI-driven ideas, and learn by
-  turning concepts into working products.
-</p>
+`Code` · `Create` · `Explore`
 
-<p>
-  <a href="https://github.com/NIVEDITA-07">
-    GitHub
-  </a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/niveditha-vs-a588a7346/">
-    LinkedIn
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/NIVEDITA-07">
+<img src="https://img.shields.io/badge/GitHub-NIVEDITA--07-111827?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/niveditha-vs-a588a7346/">
+<img src="https://img.shields.io/badge/LinkedIn-Niveditha%20VS-8B7CFF?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -35,291 +32,354 @@
 ---
 
 <!-- ========================================================= -->
-<!-- MAIN GRID -->
+<!--                       ABOUT ME                             -->
 <!-- ========================================================= -->
 
-<table width="100%">
+## 🌌 About Me
+
+<table>
 <tr>
 
-<td width="68%" valign="top">
+<td width="65%" valign="top">
 
-<h2>✦ Selected Work</h2>
+### Hi, I'm Niveditha 👋
 
-<table width="100%">
-<tr>
+I'm a **2nd-year Computer Science Engineering student** who loves
+learning by building things.
 
-<td width="50%" valign="top">
+My curiosity about technology started from something much bigger than
+technology itself — **space**. 🌌
 
-### ◉ BiteVue
+I've been fascinated by astronomy and the universe from a young age,
+especially **black holes, neutron stars, exoplanets and the science
+behind exploring space.**
 
-AI-native food & health application.
+That curiosity eventually led me towards Computer Science, where I
+found another way to explore ideas — **through code.**
 
-`React` `TypeScript` `AI`
+Today, I'm interested in the intersection of:
 
-[Repository →](https://github.com/NIVEDITA-07/bitevue2026)
+- 💻 **Computer Science & Software Development**
+- 🌌 **Space, Astronomy & Space Technology**
+- 🤖 **Artificial Intelligence**
+- 🌐 **Web Development**
+- 🧩 **Problem Solving**
+- 🏆 **Hackathons & Innovation**
+- 🎨 **Creative Digital Experiences**
 
-</td>
+I enjoy taking an idea from a rough concept and turning it into
+something people can actually **see, interact with and use.**
 
-<td width="50%" valign="top">
-
-### ◉ SIH
-
-Hackathon project and prototype.
-
-`TypeScript` `React` `Web`
-
-[Repository →](https://github.com/NIVEDITA-07/SIH)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ◉ BiteVue · IIT
-
-BiteVue project iteration.
-
-`TypeScript` `React`
-
-[Repository →](https://github.com/NIVEDITA-07/bitevue2026iit)
+I'm still learning, experimenting and figuring things out —
+but that's exactly what makes the journey interesting.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
-### ◉ BiteVue · IITG
+### ✦ Quick Facts
 
-BiteVue project iteration.
+📚 **Currently**
 
-`Web` `TypeScript`
+2nd Year  
+Computer Science Engineering
 
-[Repository →](https://github.com/NIVEDITA-07/Bitevue2026IITG)
+<br>
 
-</td>
+💻 **Primary Language**
 
-</tr>
+Python
 
-<tr>
+<br>
 
-<td width="50%" valign="top">
+🌐 **Exploring**
 
-### ◉ Skill26
+Web Development  
+AI / ML  
+Software Development
 
-Web development project.
+<br>
 
-`HTML` `Web`
+🌌 **Passion**
 
-[Repository →](https://github.com/NIVEDITA-07/skill26)
+Space & Astronomy
 
-</td>
+<br>
 
-<td width="50%" valign="top">
+🏆 **Love**
 
-### ◉ WEDDING
+Hackathons & Building
 
-Web experience / frontend project.
+<br>
 
-[Repository →](https://github.com/NIVEDITA-07/WEDDING)
+🧠 **Learning Style**
+
+Build → Break → Learn → Improve
+
+<br>
+
+🚀 **Long-term Interest**
+
+Technology + Space
 
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<h2>⌁ Repository Archive</h2>
-
-<details>
-<summary><strong>View all repositories</strong></summary>
-
-<br>
-
-<table width="100%">
-
-<tr>
-<th>Repository</th>
-<th>Type</th>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/NIVEDITA-07/SIH">
-SIH
-</a>
-</td>
-<td>Public</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/NIVEDITA-07/bitevue2026">
-bitevue2026
-</a>
-</td>
-<td>Public</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/NIVEDITA-07/bitevue2026iit">
-bitevue2026iit
-</a>
-</td>
-<td>Public</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/NIVEDITA-07/Bitevue2026IITG">
-Bitevue2026IITG
-</a>
-</td>
-<td>Public</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/NIVEDITA-07/WEDDING">
-WEDDING
-</a>
-</td>
-<td>Public</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/NIVEDITA-07/skill26">
-skill26
-</a>
-</td>
-<td>Public</td>
-</tr>
-
-<!-- ADD THE OTHER 7 REPOSITORIES HERE -->
-<!--
-<tr>
-<td><a href="YOUR_REPO_URL">REPOSITORY_NAME</a></td>
-<td>Public</td>
-</tr>
--->
-
-</table>
-
-</details>
-
-</td>
-
-
-<!-- ========================================================= -->
-<!-- RIGHT COLUMN -->
-<!-- ========================================================= -->
-
-<td width="32%" valign="top">
-
-<h2>⌁ About</h2>
-
-Computer Science undergraduate interested in building across AI,
-data, software and the web.
-
-<br><br>
-
-A space & astronomy enthusiast — mostly as a source of curiosity
-and visual inspiration.
-
-<br><br>
 
 ---
 
-<h2>✦ Tech Stack</h2>
+<!-- ========================================================= -->
+<!--                     MY STORY                               -->
+<!-- ========================================================= -->
 
-**Languages**
+## 🚀 My Story
 
-`C` `Python` `Java` `JavaScript` `TypeScript`
+I didn't start coding because I wanted to become a programmer.
 
-<br>
+I started because I was **curious.**
 
-**Web & Tools**
+Curious about how things work.
 
-`React` `HTML/CSS` `Vite` `Tailwind`
+Curious about how technology can solve problems.
 
-<br>
+And especially curious about how we can use technology to understand
+things that are far beyond us.
 
-**Exploring**
+That curiosity took me from experimenting with code to building
+projects, participating in hackathons and exploring areas like
+AI, web development, simulations and space technology.
 
-`AI/ML` `Computer Vision` `Data Science`
+I'm still at the beginning of the journey.
 
----
-
-<h2>◌ Currently Learning</h2>
-
-`Java`
-
-`JavaScript`
-
-`Python`
-
-`C`
-
-`React`
-
-`Machine Learning`
-
-`Systems`
+And there is a lot more to explore. 🌌
 
 ---
 
-<h2>⌁ Outside the Terminal</h2>
+<!-- ========================================================= -->
+<!--                    WHAT I BUILD                            -->
+<!-- ========================================================= -->
 
-🔭 Astronomy
+## 🛰️ What I Like Building
 
-🎮 Games
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌌 Space & Science
+
+Interactive experiences inspired by:
+
+- Exoplanets
+- Astronomy
+- Space exploration
+- Scientific simulations
+- Space technology
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Technology
+
+Exploring:
+
+- AI-powered applications
+- Intelligent interfaces
+- Data-driven systems
+- Automation
+- Real-world problem solving
 
 </td>
 
 </tr>
-</table>
-
-<br>
-
-<!-- ========================================================= -->
-<!-- RECOGNITION -->
-<!-- ========================================================= -->
-
-<h2>✦ Recognition</h2>
-
-<table width="100%">
 
 <tr>
 
 <td width="50%" valign="top">
 
-**IIT Madras**
+### 🌐 Web Experiences
 
-AI & Data Science
+I enjoy creating:
 
-<br><br>
-
-**NASA Space Apps Challenge**
-
-Team Tessera
+- Interactive websites
+- Dashboards
+- Portfolio websites
+- Hackathon MVPs
+- User-focused interfaces
 
 </td>
 
 <td width="50%" valign="top">
 
-**Shaastra · IIT Madras**
+### 🏆 Hackathon Projects
 
-Digital Post of India Innovation Hackathon
+I love the process of:
 
-<br><br>
+**Idea → Research → Prototype → Build → Pitch**
 
-**IEEE MACE**
+Especially when there are only a few days
+to turn an idea into something real.
 
-The Backwater Bytes
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                    TECH STACK                              -->
+<!-- ========================================================= -->
+
+## 🛠️ Languages & Tools
+
+### Programming Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-Advanced-8B7CFF?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C-Intermediate-6675E8?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-Basics-9A8CFF?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+</p>
+
+### Web Development
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-FF6B4A?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-6675E8?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F0C75E?style=for-the-badge&logo=javascript&logoColor=111827"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827"/>
+
+</p>
+
+### Tools & Platforms
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Figma-A855F7?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                     PROJECTS                               -->
+<!-- ========================================================= -->
+
+## 🛰️ Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌌 Exoplanet Explorer
+
+An interactive space exploration simulation inspired by
+**exoplanet discovery and exploration**.
+
+Built as a NASA Space Apps project with multiple planets
+and different exoplanet detection concepts.
+
+**Tech**
+
+`Unreal Engine` `C++` `Space Simulation`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌴 Samskrithi
+
+A digital platform focused on making **Kerala's culture and heritage**
+more interactive and accessible.
+
+Includes interactive cultural exploration, cuisine,
+festivals, history and an AI-powered itinerary concept.
+
+**Tech**
+
+`HTML` `CSS` `JavaScript` `AI`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛡️ Sonar Shield
+
+A smart dashboard concept for **underwater threat detection**
+and monitoring.
+
+Designed as a data-focused interface for visualizing
+complex information clearly.
+
+**Tech**
+
+`React` `TypeScript` `UI/UX`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Dementia UI
+
+A frontend prototype exploring how digital interfaces
+can become more accessible and user-friendly for
+cognitive-health applications.
+
+**Tech**
+
+`React` `TypeScript` `Frontend`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌾 NASA Farm Navigator
+
+A farming simulation concept using NASA data to represent
+different agricultural scenarios such as drought,
+flooding and seasonal changes.
+
+**Tech**
+
+`Unity` `NASA Data` `Simulation`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Personal Portfolio
+
+A continuously evolving portfolio documenting my
+projects, skills, experiments and learning journey.
+
+**Tech**
+
+`HTML` `CSS` `JavaScript`
 
 </td>
 
@@ -327,19 +387,156 @@ The Backwater Bytes
 
 </table>
 
-<br>
+---
 
 <!-- ========================================================= -->
-<!-- STAR / ORBIT DIVIDER -->
+<!--                    HACKATHONS                              -->
 <!-- ========================================================= -->
 
-<div align="center">
+## 🏆 Hackathons & Innovation
+
+I've used hackathons as a way to learn technologies,
+work with teams and turn ideas into working prototypes.
+
+### 🚀 NASA Space Apps
+
+Built projects around:
+
+- 🌌 Exoplanet exploration
+- 🌾 NASA data and agriculture
+- 🎮 Interactive simulation
+- 🛰️ Space-related storytelling
+
+---
+
+### 🏛️ IIT Madras / Shaastra
+
+Worked on a **Digital Public Infrastructure** problem involving
+address validation and intelligent data systems.
+
+Reached the **final stage** and presented the solution.
+
+---
+
+### 🌴 Kerala Culture Hackathon
+
+Worked on **Samskrithi**, a platform for digitally exploring
+Kerala's cultural heritage.
+
+---
+
+### 💡 Other Hackathons
+
+Participated in multiple college and innovation hackathons,
+working across:
+
+`AI` · `Web` · `Data` · `Culture` · `Space` · `DPI`
+
+---
+
+<!-- ========================================================= -->
+<!--                   CURRENTLY EXPLORING                       -->
+<!-- ========================================================= -->
+
+## 🔭 Currently Exploring
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 01 · Computer Science
+
+Strengthening my fundamentals in:
+
+- Programming
+- Data Structures
+- Algorithms
+- Problem Solving
+- Software Development
+
+</td>
+
+<td width="50%">
+
+### 02 · Web Development
+
+Learning to build:
+
+- Modern interfaces
+- Interactive dashboards
+- Responsive websites
+- Better user experiences
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 03 · Artificial Intelligence
+
+Exploring:
+
+- AI applications
+- APIs
+- Intelligent systems
+- Data-driven solutions
+- AI-assisted development
+
+</td>
+
+<td width="50%">
+
+### 04 · Space Technology
+
+Keeping my original curiosity alive through:
+
+- Astronomy
+- Astrophysics
+- Exoplanets
+- Space missions
+- Scientific computing
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                      LEARNING                              -->
+<!-- ========================================================= -->
+
+## 📚 What I'm Learning
 
 ```text
-          ·        ✦             ·
-     ·              ╲  ◯  ╱             ·
-             ·        ╲╱        ✦
-
-              ─────────────
-
-        build · learn · explore
+Computer Science
+       │
+       ├── Programming
+       ├── Data Structures
+       ├── Algorithms
+       │
+       ▼
+Web Development
+       │
+       ├── Frontend
+       ├── React
+       └── UI / UX
+       │
+       ▼
+Artificial Intelligence
+       │
+       ├── AI APIs
+       ├── Machine Learning
+       └── Intelligent Applications
+       │
+       ▼
+Space Technology
+       │
+       ├── Astronomy
+       ├── Scientific Computing
+       └── Space Applications
