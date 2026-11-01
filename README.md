@@ -175,4 +175,13 @@ Technology + Space
 </p>
 
 ---
+<h2 align="center">💜 My GitHub Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NIVEDITA-07&bg_color=16121f&color=d8b4fe&title_color=d8b4fe&line=a875d5&point=ffffff&area=true&hide_border=true"
+    alt="Niveditha's GitHub Activity Graph"
+    width="100%"
+  />
+</p>
 
